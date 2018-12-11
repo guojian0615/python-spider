@@ -25,7 +25,7 @@ def parse_file():
     :return:
     """
     parser = etree.HTMLParser(encoding='utf-8')
-    html_elment = etree.parse('../data/index.html', parser=parser)
+    html_elment = etree.parse('./data/index.html', parser=parser)
     print(etree.tostring(html_elment, encoding='utf-8').decode('utf-8'))
 
 

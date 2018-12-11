@@ -11,7 +11,7 @@ from lxml import etree
 
 # 打开一个本地文件
 html_parser = etree.HTMLParser(encoding='utf-8')
-html = etree.parse('../data/index.html', html_parser)
+html = etree.parse('./data/index.html', html_parser)
 
 
 # 获取所有的tr标签
