@@ -1,5 +1,5 @@
 """
-使用Beautiful-soup 和requests来爬取中国天气网的信息
+使用Beautiful-soup 和requests来爬取【中国天气网】的信息
 获取今天全国天气温度最低的前十名城市
 使用pyecharts 可视化显示图表信息
 """

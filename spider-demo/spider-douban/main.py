@@ -1,5 +1,5 @@
 """
-爬取豆瓣网页正在热映的电影信息
+爬取【豆瓣网页】正在热映的电影信息
 """
 import requests
 from lxml import etree
