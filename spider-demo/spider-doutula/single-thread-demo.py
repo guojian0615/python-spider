@@ -1,5 +1,5 @@
 """
-[斗图啦]网站图片下周爬虫
+[斗图啦]网站图片下周爬虫，单线程下载
 """
 import requests
 from lxml import etree
