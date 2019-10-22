@@ -13,7 +13,7 @@ lml==0.0.2
 lxml==4.2.5
 macropy3==1.1.0b2
 MarkupSafe==1.1.0
-Pillow==5.3.0
+Pillow==6.2.0
 pyecharts==0.1.9.4
 pyecharts-javascripthon==0.0.6
 pyecharts-jupyter-installer==0.0.3
